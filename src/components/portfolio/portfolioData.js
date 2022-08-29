@@ -49,7 +49,7 @@ const PortfolioData = [
   },
   {
     id: 4,
-    type: "Front End",
+    type: "Herobiz",
     image: Image1,
     modalDetails: [
       {
