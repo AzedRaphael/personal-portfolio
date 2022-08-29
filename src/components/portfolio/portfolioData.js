@@ -1,13 +1,13 @@
-import Image1 from "../../assets/img/portfolio/project-1.jpg";
-import Image3 from "../../assets/img/portfolio/project-3.jpg";
-import Image4 from "../../assets/img/portfolio/project-4.jpg";
-import Image5 from "../../assets/img/portfolio/project-5.jpg";
+import Image1 from "../../assets/img/portfolio/herobiz.png";
+import Image3 from "../../assets/img/portfolio/restaurant.png";
+import Image4 from "../../assets/img/portfolio/medium-clone.png";
+import Image5 from "../../assets/img/portfolio/cryptopaay.png";
 
 const PortfolioData = [
   {
     id: 1,
     type: "Medium clone",
-    image: "https://res.cloudinary.com/dr3djfjwm/image/upload/v1661776493/portfolio/Screenshot_14_yvrl02.png",
+    image: Image4,
     modalDetails: [
       {
         project: "blog clone",
@@ -22,7 +22,7 @@ const PortfolioData = [
   {
     id: 2,
     type: "Homepage",
-    image: "https://res.cloudinary.com/dr3djfjwm/image/upload/v1661779936/portfolio/Screenshot_15_csd6pz.png",
+    image: Image5,
     modalDetails: [
       {
         project: "Paid Website",
@@ -36,7 +36,7 @@ const PortfolioData = [
   {
     id: 3,
     type: "Restaurants site",
-    image: "https://res.cloudinary.com/dr3djfjwm/image/upload/v1661774898/portfolio/Screenshot_13_jybzpn.png",
+    image: Image3,
     modalDetails: [
       {
         project: "restaurant",
@@ -50,7 +50,7 @@ const PortfolioData = [
   {
     id: 4,
     type: "Front End",
-    image: "https://res.cloudinary.com/dr3djfjwm/image/upload/v1661774868/portfolio/Screenshot_12_hzjsgo.png",
+    image: Image1,
     modalDetails: [
       {
         project: "HeroBiz",
