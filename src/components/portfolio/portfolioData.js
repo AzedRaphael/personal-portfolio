@@ -21,7 +21,7 @@ const PortfolioData = [
   
   {
     id: 2,
-    type: "CryptoPaay",
+    type: "Cryptpaay",
     image: Image5,
     modalDetails: [
       {
