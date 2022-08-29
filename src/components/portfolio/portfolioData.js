@@ -6,7 +6,7 @@ import Image5 from "../../assets/img/portfolio/cryptopaay.png";
 const PortfolioData = [
   {
     id: 1,
-    type: "Medium clone",
+    type: "Medium-clone",
     image: Image4,
     modalDetails: [
       {
