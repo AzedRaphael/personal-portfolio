@@ -1,5 +1,5 @@
 import Image1 from "../../assets/img/portfolio/herobiz.png";
-import Image3 from "../../assets/img/portfolio/restaurant.png";
+import Image3 from "../../assets/img/portfolio/restuarant.png";
 import Image4 from "../../assets/img/portfolio/medium-clone.png";
 import Image5 from "../../assets/img/portfolio/cryptopaay.png";
 
